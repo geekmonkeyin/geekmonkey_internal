@@ -12,14 +12,26 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
+        android:id="@+id/nav_shopify"
         android:name="com.gkmonk.finalgeekmonkeyapp.ui.gallery.GalleryFragment"
         android:label="@string/menu_gallery"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
+        android:id="@+id/nav_amazon"
+        android:name="com.gkmonk.finalgeekmonkeyapp.ui.amazon.AmazonFragment"
+        android:label="@string/menu_amazon"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
         android:id="@+id/nav_slideshow"
         android:name="com.gkmonk.finalgeekmonkeyapp.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_inventory"
+        android:name="com.gkmonk.finalgeekmonkeyapp.ui.inventory.InventoryFragment"
+        android:label="@string/menu_inventory"
         tools:layout="@layout/fragment_slideshow" />
 </navigation>

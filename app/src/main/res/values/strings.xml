@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FinalGeekmonkeyApp</string>
+    <string name="app_name">Geekmonkey Internal</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Geekmonkey Internal</string>
@@ -8,6 +8,9 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
+    <string name="menu_gallery">Shopify</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_amazon">Amazon</string>
+    <string name="menu_inventory">Inventory</string>
+    <string name="menu_tasks">Tasks</string>
 </resources>
