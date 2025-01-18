@@ -13,4 +13,6 @@
     <string name="menu_amazon">Amazon</string>
     <string name="menu_inventory">Inventory</string>
     <string name="menu_tasks">Tasks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

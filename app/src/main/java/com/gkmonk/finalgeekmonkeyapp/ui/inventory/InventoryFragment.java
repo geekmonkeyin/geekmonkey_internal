@@ -32,8 +32,6 @@ public class InventoryFragment extends Fragment {
         binding = FragmentInventoryBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textGallery;
-        inventoryViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
 
         return root;
     }
